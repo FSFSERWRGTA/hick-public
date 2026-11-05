@@ -1,0 +1,189 @@
+{
+    "friendlyName": "Samsung Galaxy S24 Ultra",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1440,
+            "height": 3120,
+            "navigationBarHeight": 144,
+            "dpi": 505.0,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 3028.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 684.0,
+                            "y": 3028.0,
+                            "width": 72.0,
+                            "height": 92.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 92.0,
+                        "width": 1440.0,
+                        "height": 3028.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 684.0,
+                            "y": 0.0,
+                            "width": 72.0,
+                            "height": 92.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 92.0,
+                        "y": 0.0,
+                        "width": 3028.0,
+                        "height": 1440.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 0.0,
+                            "y": 684.0,
+                            "width": 92.0,
+                            "height": 72.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 3028.0,
+                        "height": 1440.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 3028.0,
+                            "y": 684.0,
+                            "width": 92.0,
+                            "height": 72.0
+                        }
+                    ]
+                }
+            ],
+            "presentation": {
+                "name": "Borderless Device",
+                "overlayPath": "",
+                "borderSize": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                },
+                "cornerRadius": 0.0
+            }
+        }
+    ],
+    "systemInfo": {
+        "deviceModel": "Samsung Galaxy S24 Ultra",
+        "deviceType": 1,
+        "operatingSystem": "Android OS 14 / API-34",
+        "operatingSystemFamily": 0,
+        "processorType": "ARM64",
+        "processorFrequency": 0,
+        "processorCount": 8,
+        "systemMemorySize": 12288,
+        "supportsAccelerometer": true,
+        "supportsGyroscope": true,
+        "supportsLocationService": true,
+        "supportsVibration": true,
+        "supportsAudio": true,
+        "graphicsDependentData": [
+            {
+                "graphicsDeviceType": 11,
+                "graphicsMemorySize": 4096,
+                "graphicsDeviceName": "Adreno",
+                "graphicsDeviceVendor": "Qualcomm",
+                "graphicsDeviceID": 0,
+                "graphicsDeviceVendorID": 0,
+                "graphicsUVStartsAtTop": false,
+                "graphicsDeviceVersion": "OpenGL ES 3.2",
+                "graphicsShaderLevel": 45,
+                "graphicsMultiThreaded": true,
+                "renderingThreadingMode": 0,
+                "hasHiddenSurfaceRemovalOnGPU": true,
+                "hasDynamicUniformArrayIndexingInFragmentShaders": true,
+                "supportsShadows": true,
+                "supportsRawShadowDepthSampling": true,
+                "supportsMotionVectors": true,
+                "supports3DTextures": true,
+                "supports2DArrayTextures": true,
+                "supports3DRenderTextures": true,
+                "supportsCubemapArrayTextures": true,
+                "copyTextureSupport": 31,
+                "supportsComputeShaders": true,
+                "supportsGeometryShaders": false,
+                "supportsTessellationShaders": false,
+                "supportsInstancing": true,
+                "supportsHardwareQuadTopology": false,
+                "supports32bitsIndexBuffer": true,
+                "supportsSparseTextures": false,
+                "supportedRenderTargetCount": 4,
+                "supportsSeparatedRenderTargetsBlend": false,
+                "supportedRandomWriteTargetCount": 4,
+                "supportsMultisampledTextures": 1,
+                "supportsMultisampleAutoResolve": true,
+                "supportsTextureWrapMirrorOnce": 1,
+                "usesReversedZBuffer": false,
+                "npotSupport": 2,
+                "maxTextureSize": 8192,
+                "maxCubemapSize": 8192,
+                "maxComputeBufferInputsVertex": 16,
+                "maxComputeBufferInputsFragment": 16,
+                "maxComputeBufferInputsGeometry": 0,
+                "maxComputeBufferInputsDomain": 0,
+                "maxComputeBufferInputsHull": 0,
+                "maxComputeBufferInputsCompute": 8,
+                "maxComputeWorkGroupSize": 1024,
+                "maxComputeWorkGroupSizeX": 1024,
+                "maxComputeWorkGroupSizeY": 1024,
+                "maxComputeWorkGroupSizeZ": 64,
+                "supportsAsyncCompute": false,
+                "supportsGraphicsFence": true,
+                "supportsAsyncGPUReadback": false,
+                "supportsRayTracing": false,
+                "supportsSetConstantBuffer": false,
+                "minConstantBufferOffsetAlignment": false,
+                "hasMipMaxLevel": false,
+                "supportsMipStreaming": false,
+                "usesLoadStoreActions": false,
+                "supportedTextureFormats": [
+                    1, 2, 3, 4, 5, 7, 13, 14, 15, 16, 17, 18, 19, 20,
+                    22, 34, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+                    51, 52, 53, 62, 63, 64, 65, 66, 67, 68, 69, 70,
+                    71, 72, 73, 74
+                ],
+                "supportedRenderTextureFormats": [
+                    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
+                    15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28
+                ],
+                "ldrGraphicsFormat": 8,
+                "hdrGraphicsFormat": 0
+            }
+        ]
+    }
+}

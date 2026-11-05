@@ -1,0 +1,87 @@
+Academic and Research Use License
+
+Copyright (c) 2026 The Authors. All rights reserved.
+
+[Author identity is withheld while this work is under anonymous peer review.
+ Replace "The Authors" with the copyright holders before public release.]
+
+This software and the accompanying materials (the "Software") are made available
+solely to support the peer review, verification, and replication of the associated
+academic publication.
+
+
+1. PERMITTED USE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the
+Software, to use, copy, compile, execute, and modify the Software for the following
+purposes only:
+
+  (a) Peer review and evaluation of the associated publication;
+  (b) Non-commercial academic research;
+  (c) Verification or replication of the results reported in the associated
+      publication;
+  (d) Non-commercial teaching and educational use.
+
+Modifications made under this Section are permitted for internal use by the
+licensee and may not be distributed except as allowed by Section 2(b).
+
+
+2. RESTRICTIONS
+
+Except as expressly permitted above, you may NOT:
+
+  (a) Use the Software, in whole or in part, for any commercial purpose, including
+      incorporation into a commercial product or service, or use in the course of
+      providing services for a fee;
+  (b) Redistribute, publish, sublicense, sell, or otherwise make the Software or
+      any derivative work available to third parties. A derivative work created for
+      an academic publication may be shared with that publication's reviewers and
+      readers provided that this license and the attribution required by Section 3
+      accompany it;
+  (c) Remove or alter this license, any copyright notice, or any attribution
+      contained in the Software.
+
+
+3. ATTRIBUTION
+
+Any publication, presentation, or public work that uses, builds upon, or reports
+results obtained with the Software must cite the associated publication. See the
+Citation section of README.md.
+
+
+4. THIRD-PARTY COMPONENTS
+
+The Software is built with, and may redistribute components of, third-party
+software including the Unity engine and the Firebase SDK. Those components remain
+subject to their own licenses, which are not modified or superseded by this
+license. It is the licensee's responsibility to comply with them and to obtain any
+required Unity license for their own use.
+
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+6. HUMAN-SUBJECTS RESEARCH
+
+The Software is an instrument for research involving human participants. Any use of
+the Software to collect data from human participants is the sole responsibility of
+the licensee and must comply with all applicable laws, regulations, and the
+requirements of the licensee's institutional review board or equivalent ethics
+committee. No participant data is included in this distribution.
+
+
+7. TERMINATION
+
+Any use in breach of this license terminates the rights granted herein
+automatically.
+
+
+For permissions beyond the scope of this license, contact the corresponding author
+listed in README.md.

@@ -1,0 +1,64 @@
+# ---- Unity ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+**/[Bb]uild/*
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.utmp/
+
+# ---- IDE / tooling ----
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+
+# ---- Build outputs ----
+*.apk
+*.aab
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# ---- Published APK (everything else in build/ stays ignored) ----
+!/build/build.apk
+
+# ---- Firebase: ADMIN service-account keys (NEVER commit) ----
+**/*firebase-adminsdk*.json
+**/*service-account*.json
+
+# ---- Firebase: client config lives in .env; see .env.example ----
+.env
+.env.*
+!.env.example
+
+# ---- Large native libs (>100MB, Mac/Linux editor only; re-imported with Firebase SDK) ----
+Assets/Firebase/Plugins/x86_64/*.bundle
+Assets/Firebase/Plugins/x86_64/*.so
+
+# ---- Keep .meta for tracked assets ----
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/**/*.meta
+!/[Pp]roject[Ss]ettings/**/*.meta
+
+# ---- Generated from .env by Assets/Script/Editor/FirebaseEnvConfig.cs (must stay below the .meta rules) ----
+/Assets/google-services.json*
+/Assets/GoogleService-Info.plist*
+/Assets/StreamingAssets/
+/Assets/StreamingAssets.meta
+/Assets/Plugins/Android/FirebaseApp.androidlib/res/
+/Assets/Resources/FirebaseReportUrl.txt*
+
+# ---- Korean translation of README (internal reference; public docs stay English-only) ----
+README.ko.md
